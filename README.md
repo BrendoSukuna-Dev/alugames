@@ -11,10 +11,10 @@
 
 <p><h3>✦ Principais funcionalidades:</h3></p>
 
-<p>⇢ Controle de Aluguel: Botão dinâmico que alterna entre "Alugar" e "Devolver".</p>
-<p>⇢ Feedback Visual Imediato: Alteração de classes CSS (cores e estilos) para identificar facilmente jogos alugados.</p>
-<p>⇢ Lógica de Seleção Única: Identificação de cada jogo por meio de IDs únicos, garantindo que a ação afete apenas o item selecionado.</p>
-<p>⇢ Confirmação de Ação: Implementação de alertas de confirmação para evitar devoluções ou aluguéis acidentais (se aplicável).</p>
+<p>➥ Controle de Aluguel: Botão dinâmico que alterna entre "Alugar" e "Devolver".</p>
+<p>➥ Feedback Visual Imediato: Alteração de classes CSS (cores e estilos) para identificar facilmente jogos alugados.</p>
+<p>➥ Lógica de Seleção Única: Identificação de cada jogo por meio de IDs únicos, garantindo que a ação afete apenas o item selecionado.</p>
+<p>➥ Confirmação de Ação: Implementação de alertas de confirmação para evitar devoluções ou aluguéis acidentais (se aplicável).</p>
 
 ## 🖥 Tecnologias utilizadas no projeto
 <div>
