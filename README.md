@@ -1,8 +1,5 @@
 <h1>Aluguel de Jogos - AluGames</h1>
-<h2>🖥 Projeto em andamentos 🔄 </h2> 
-<p><code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code> Em desenvolvimento</p>
-<p><code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code> Concluído</p>
-<p><code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code> Concluído</p>
+<h2>🖥 Projeto Concluido ✅  </h2> 
 
 <h2>📋 Sobre o projeto</h2>
 <p>Este projeto foca na manipulação do DOM e na lógica de controle de estados.
