@@ -2,12 +2,12 @@
 <img width="1860" height="992" alt="Image" src="https://github.com/user-attachments/assets/a60e1376-15f2-4caf-baf8-a00ce2efda53" />
 <h2>🖥 Projeto Concluido ✅  </h2> 
 
-<h2>📋 Sobre o projeto</h2>
+## 📋 Sobre o projeto 
 <p>Este projeto foca na manipulação do DOM e na lógica de controle de estados.
   A aplicação exibe uma lista de jogos onde cada item possui um botão que altera sua funcionalidade e aparência visual dependendo se o jogo está em posse da loja ou do cliente.</p>
 <p>Uma interface interativa desenvolvida para gerenciar o status de aluguel de jogos de um catálogo. O projeto permite que o usuário alterne entre os estados "Disponível" e "Alugado" em tempo real.</p>
 
-<p><h3>✦ Principais funcionalidades:</h3></p>
+## ✦ Principais funcionalidades:
 
 <p>➥ Controle de Aluguel: Botão dinâmico que alterna entre "Alugar" e "Devolver".</p>
 <p>➥ Feedback Visual Imediato: Alteração de classes CSS (cores e estilos) para identificar facilmente jogos alugados.</p>
